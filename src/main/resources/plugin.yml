@@ -1,0 +1,12 @@
+name: Barcore-Java
+version: @version@
+main: com.vjh0107.barcoreJava.BarcoreJavaPlugin
+api-version: 1.16
+prefix: BarCore-Java
+loadbefore: [ BarCore-Java ]
+depend: [ MythicMobs, MagicSpells ]
+softdepend:
+  - MagicSpells
+authors: [ vjh0107 ]
+description: BarCore which made with java
+website: http://vjh0107.tistory.com
